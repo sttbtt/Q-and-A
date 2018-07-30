@@ -69,7 +69,7 @@ The first view controller the user will see in the application is the list of `Q
 
 The table view's cell is custom. It should look like this:
 
-![](https://user-images.githubusercontent.com/16965587/43410380-eca906d4-93e3-11e8-8a4b-8fee52714cd3.png)
+![](https://user-images.githubusercontent.com/16965587/43414311-a7b2f5c4-93ef-11e8-9ca5-72a9ec97aaaf.png)
 
 Using stack views, make your cell look similar to the screenshot above.
 
